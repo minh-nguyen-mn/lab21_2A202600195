@@ -214,8 +214,8 @@ Nếu có dataset lớn hơn và GPU mạnh hơn, rank 64 có thể trở thành
 - https://huggingface.co/minh-nguyen-mn/qwen2.5-3b-vi-lab21-r16
 
 ## Google Colab Notebook
-- https://github.com/minh-nguyen-mn/lab21_2A202600195/notebook.ipynb
+- https://github.com/minh-nguyen-mn/lab21_2A202600195/blob/main/notebook.ipynb
 
 ## Result Files
-- https://github.com/minh-nguyen-mn/lab21_2A202600195/results/rank_experiment_summary.csv
-- https://github.com/minh-nguyen-mn/lab21_2A202600195/results/qualitative_comparison.csv
+- https://github.com/minh-nguyen-mn/lab21_2A202600195/blob/main/results/qualitative_comparison.csv
+- https://github.com/minh-nguyen-mn/lab21_2A202600195/blob/main/results/rank_experiment_summary.csv
